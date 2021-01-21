@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="title_activity_keyboard_sample">KeyboardSample</string>
+    <string-array name="phoneTypes">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
